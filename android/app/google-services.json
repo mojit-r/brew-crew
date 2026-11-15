@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157818928469",
+    "project_id": "mojit-brew-crew",
+    "storage_bucket": "mojit-brew-crew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157818928469:android:fdaed79fb262353534c3dc",
+        "android_client_info": {
+          "package_name": "com.mojit.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ01Db8UTpreOatFgnVxxFaW_9g_w4m48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
